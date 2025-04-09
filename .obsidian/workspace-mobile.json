@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 - Areas/Djezzy SIM Cards Management/Djezzy_Cards_Dashboard.md",
+                "file": "200 - Areas/Djezzy SIM Cards Management/Djezzy Cards Dashboard.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Djezzy_Cards_Dashboard"
+              "title": "Djezzy Cards Dashboard"
             }
           },
           {
@@ -180,7 +180,7 @@
   "active": "1bfa54b3b454bf42",
   "lastOpenFiles": [
     "200 - Areas/Djezzy.md",
-    "200 - Areas/Djezzy SIM Cards Management/Djezzy_Cards_Dashboard.md",
+    "200 - Areas/Djezzy SIM Cards Management/Djezzy Cards Dashboard.md",
     "200 - Areas/Djezzy SIM Cards Management",
     "000 - Inbox/React and RSC sequence pattern.md",
     "300 - Resources/Languages",
