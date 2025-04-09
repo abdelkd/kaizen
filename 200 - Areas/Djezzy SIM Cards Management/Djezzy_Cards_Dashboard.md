@@ -4,7 +4,7 @@ Tags: area-dashboard
 Created: 2025-04-09
 ---
 
-# Area: Djezzy CardsDashboard
+# Area: Djezzy Cards Dashboard
 
 ---
 
