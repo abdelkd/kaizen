@@ -18,11 +18,8 @@ Created: 2025-04-09
 
 ## ✅ Routine Tasks & Checklists
 
-*   [ ] Task/Checklist Item (e.g., Weekly framework review) #Task #{{title}} 🔁 every week [[Djezzy_Cards_Dashboard Dashboard]]
-*   [ ] Another routine task #Task #Djezzy_Cards_Dashboard 🔁 every month on the 1st [[Djezzy_Cards_Dashboard Dashboard]]
-*   ...
-
-*(Note: Added [[{{title}} Dashboard]] link to tasks for easier Dataview finding in the query below)*
+*   [ ] Activate SIM #Task #{{title}} 🔁 every day [[Djezzy_Cards_Dashboard Dashboard]]
+*   [ ] Another routine task #Task #
 
 ---
 
@@ -30,12 +27,6 @@ Created: 2025-04-09
 
 *   **Core Resources:**
     *   [[Link to a foundational concept in 30 - Resources]]
-    *   [[Link to another key resource note]]
-*   **Related Projects:**
-    *   [[Link to an active project in 10 - Projects related to this area]]
-    *   [[Link to a completed project in 40 - Archives]]
-*   **Sub-Areas (if any):**
-    *   [[Link to a sub-area dashboard, e.g., 20 - Areas/Web Development/Frontend/Frontend Dashboard.md]]
 
 ---
 
