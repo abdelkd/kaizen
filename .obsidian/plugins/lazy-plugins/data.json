@@ -23,6 +23,27 @@
       },
       "vertical-tabs": {
         "startupType": "instant"
+      },
+      "table-editor-obsidian": {
+        "startupType": "short"
+      },
+      "obsidian-kanban": {
+        "startupType": "disabled"
+      },
+      "obsidian-projects": {
+        "startupType": "short"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "remember-cursor-position": {
+        "startupType": "instant"
+      },
+      "obsidian-read-it-later": {
+        "startupType": "long"
+      },
+      "shiki-highlighter": {
+        "startupType": "short"
       }
     },
     "loadOrder": []

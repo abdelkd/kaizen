@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "Project": {}
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#project/active",
+          "hierarchy": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "Project",
+              "Created",
+              "Deadline",
+              "Status"
+            ],
+            "fieldConfig": {
+              "name": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "cb7b3533-1828-451a-8533-4bdd8daa85f4",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "c94482ea-0fcc-4c00-b431-43d529f76353",
+      "name": "Active Projects"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

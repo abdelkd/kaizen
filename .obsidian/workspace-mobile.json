@@ -4,38 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e5387a91d97e332b",
+        "id": "faa7adb9e7696e72",
         "type": "tabs",
         "children": [
           {
-            "id": "1bfa54b3b454bf42",
+            "id": "8513d4501cf46a2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 - Areas/Djezzy SIM Cards Management/Djezzy Cards Dashboard.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Djezzy Cards Dashboard"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "12505fb0678a95f1",
+            "id": "394828d65c77a719",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/T - Atomic Note.md",
+                "file": "4 - Areas/Djezzy Cards Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T - Atomic Note"
+              "title": "Djezzy Cards Dashboard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md",
+            "file": "3 - Zettelkasten/What is Pure Function.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -164,7 +161,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,39 +170,46 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bfa54b3b454bf42",
+  "active": "394828d65c77a719",
   "lastOpenFiles": [
-    "200 - Areas/Djezzy.md",
-    "200 - Areas/Djezzy SIM Cards Management/Djezzy Cards Dashboard.md",
-    "200 - Areas/Djezzy SIM Cards Management",
-    "000 - Inbox/React and RSC sequence pattern.md",
-    "300 - Resources/Languages",
-    "300 - Resources/Concepts",
-    "200 - Areas/Language Learning/French/French Learning.md",
-    "_Templates/T - Project Dashboard.md",
-    "200 - Areas/Language Learning/French",
-    "200 - Areas/Language Learning",
-    "100 - Projects/Advanced TypeScript/_Notes/Study Plan.md",
-    "100 - Projects/Advanced TypeScript/_Notes",
-    "100 - Projects/Advanced TypeScript/00001 - Advanced TypeScript.md",
-    "100 - Projects/Advanced TypeScript",
-    "_Templates/T - Area Dashboard.md",
-    "_Templates/T - Daily Notes.md",
-    "200 - Areas/Test Area.md",
-    "999 - Daily Notes/Untitled.md",
-    "Hehehs.md",
-    "_Templates/T - Atomic Note.md",
-    "Updated.md",
-    "Dang.md",
-    "Hhah.md",
-    "000 - Inbox/Structure Explained.md",
-    "999 - Daily Notes",
-    "_Templates",
-    "_Assets",
-    "README.md"
+    "0 - Inbox/Courses I want to learn.md",
+    "4 - Areas/Djezzy Cards Dashboard.md",
+    "0 - Inbox/Untitled Kanban.md",
+    "0 - Inbox/link Element Attributes.md",
+    "0 - Inbox/What is the link HTML element.md",
+    "0 - Inbox/Jest Docs.md",
+    "0 - Inbox/Hono Docs.md",
+    "0 - Inbox/Prepositional phrase.md",
+    "0 - Inbox/Gerund Phrase.md",
+    "2 - Source Notes/Source - Docs - Hono.md",
+    "2 - Source Notes/Source - Youtube - React Loader Pattern.md",
+    "3 - Projects/PixlFlow/Pixl Flow Dashboard.md",
+    "4 - Areas/Build Portfolio Projects.md",
+    "4 - Areas/Build Portfolio Projects",
+    "3 - Projects/PixlFlow",
+    "3 - Zettelkasten/React Loader Pattern.md",
+    "3 - Zettelkasten/What is Pure Function.md",
+    "0 - Inbox/JavaScript Fetch.md",
+    "0 - Inbox/Tanstack Router Handle Pending State.md",
+    "3 - Zettelkasten/Pure Function Characteristics.md",
+    "0 - Inbox/Tree shaking.md",
+    "3 - Zettelkasten/How Does Tree Shaking Work.md",
+    "3 - Zettelkasten/Tree Shaking Definition.md",
+    "3 - Zettelkasten/Tree Shaking Target.md",
+    "7 - Unsorted/Templates/T - Project.md",
+    "7 - Unsorted/Templates/T - Area.md",
+    "1 - Map Of Contents/MOC JavaScript.md",
+    "3 - Zettelkasten/Benefits of Tree Shaking.md",
+    "2 - Source Notes",
+    "1 - Map Of Contents",
+    "7 - Unsorted/Articles/Assets",
+    "7 - Unsorted/Assets/Untitled",
+    "7 - Unsorted/Articles",
+    "3 - Zettelkasten/Concepts/Math",
+    "7 - Unsorted",
+    "4 - Areas/Djezzy SIM Cards Management"
   ]
 }
