@@ -15,5 +15,5 @@ Tree Shaking is a dead code elimination technique that aims to reduce the final 
 ## Connections
 
 * [[How Does Tree Shaking Work]]
-* [[Benefits of Tree Shaking]]
-* [[Tree Shaking Target]]
+* [[The Benefits of Tree Shaking]]
+* [[What Does Tree Shaking Targets]]

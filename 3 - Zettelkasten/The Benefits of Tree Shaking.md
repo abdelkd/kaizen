@@ -14,8 +14,8 @@ Tree Shaking comes with many benefits and improvements.
 * Better performance 
 * Faster loading times
 
-## Connections
+## References
 
-* [[Tree Shaking Definition]]
+* [[Definition of Tree Shaking]]
 * [[How Does Tree Shaking Work]]
-* [[Tree Shaking Target]]
+* [[What Does Tree Shaking Targets]]

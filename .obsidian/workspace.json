@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "4e09e06bfa2089c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "99fa7ec10619bd11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55a47d1aa9101b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Areas/Area - DSA Study Plan - Phase 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Area - DSA Study Plan - Phase 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5b6619b0519fdae",
+    "type": "split",
+    "children": [
+      {
+        "id": "948833bfeda6a8d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fbb3c1d11afab4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f05599da7a5ee826",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path param",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "be37bd4a06e3b059",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cde9b6efa9c765e4",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "f5726d5676195593",
+    "type": "split",
+    "children": [
+      {
+        "id": "065f89340b013d2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d8c143d99ad84fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e0e77be68a47160a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f109feb4f6fb6e99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c32ea345308de84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+    }
+  },
+  "active": "55a47d1aa9101b2b",
+  "lastOpenFiles": [
+    "4 - Areas/Area - DSA Study Plan.md",
+    "4 - Areas/Area - DSA Study Plan - Phase 1.md",
+    "4 - Areas/Djezzy Cards Dashboard.md",
+    "3 - Zettelkasten/How to Access Path Parameters in Hono Framework.md",
+    "3 - Zettelkasten/How to Access Query Parameters in Hono Framework.md",
+    "3 - Zettelkasten/How to Set a Header in Hono Framework Handler.md",
+    "0 - Inbox/Hono Docs.md",
+    "3 - Zettelkasten/How to Throw Exceptions in Hono Framework.md",
+    "3 - Zettelkasten/How to Handle Thrown Exception from Handler in Hono Framework.md",
+    "3 - Zettelkasten/How to Create Custom Not Found Handler in Hono Framework.md",
+    "3 - Zettelkasten/How to Modify a Middleware After Response.md",
+    "3 - Zettelkasten/How to Extends Context inside of Middleware in Hono Framework.md",
+    "3 - Zettelkasten/What is a Middleware in Hono Framework.md",
+    "3 - Zettelkasten/What is The Execution Order of Middleware in a Request in Hono Framework.md",
+    "3 - Zettelkasten/How to Register a More Specific Route Handling in Hono.md",
+    "3 - Zettelkasten/How to Register a Route Handler in Hono Framework.md",
+    "3 - Zettelkasten/How to Register an All Handler in Hono Framework.md",
+    "0 - Inbox/Untitled.md",
+    "3 - Zettelkasten/What is The Hono Framework.md",
+    "3 - Zettelkasten/Example of Route handler in Hono.md",
+    "3 - Zettelkasten/How to Respond with JSON in The Hono Framework.md",
+    "3 - Zettelkasten/Hono's RegExpRouter Limitations.md",
+    "3 - Zettelkasten/Functions of a Prepositional Phrase.md",
+    "1 - Map Of Contents/MOC Hono.md",
+    "3 - Zettelkasten/The link Element Attributes.md",
+    "3 - Zettelkasten/The React Loader Pattern.md",
+    "70 - Unsorted/Articles",
+    "70 - Unsorted"
+  ]
+}

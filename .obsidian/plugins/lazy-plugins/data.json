@@ -44,6 +44,9 @@
       },
       "shiki-highlighter": {
         "startupType": "short"
+      },
+      "better-word-count": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []

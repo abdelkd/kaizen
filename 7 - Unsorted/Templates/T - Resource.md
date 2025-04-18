@@ -16,7 +16,7 @@ rating:
 
 *   
 
-## Related Concepts / MOCs
+## References
 
 *   MOC Software Design Principles
 
