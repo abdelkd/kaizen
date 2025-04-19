@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Inbox/Untitled.md",
+                "file": "3 - Projects/Quescape/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0 - Inbox/Untitled.md",
+            "file": "4 - Areas/Djezzy Cards Dashboard.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -172,12 +172,16 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
   "active": "394828d65c77a719",
   "lastOpenFiles": [
     "4 - Areas/Djezzy Cards Dashboard.md",
+    "3 - Projects/Quescape/Untitled.md",
+    "3 - Projects/Quescape",
     "0 - Inbox/Untitled.md",
     "0 - Inbox/David Talk.md",
     "0 - Inbox/Courses I want to learn.md",
@@ -204,14 +208,12 @@
     "3 - Zettelkasten/Tree Shaking Definition.md",
     "3 - Zettelkasten/Tree Shaking Target.md",
     "7 - Unsorted/Templates/T - Project.md",
-    "7 - Unsorted/Templates/T - Area.md",
     "2 - Source Notes",
     "1 - Map Of Contents",
     "7 - Unsorted/Articles/Assets",
     "7 - Unsorted/Assets/Untitled",
     "7 - Unsorted/Articles",
     "3 - Zettelkasten/Concepts/Math",
-    "7 - Unsorted",
-    "4 - Areas/Djezzy SIM Cards Management"
+    "7 - Unsorted"
   ]
 }
