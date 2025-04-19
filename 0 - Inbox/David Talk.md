@@ -4,3 +4,6 @@
 - Use external store hook for client-only
 - Use selector for less rerendering 
 - Start with useState -> refactor better -> simplify
+
+
+
