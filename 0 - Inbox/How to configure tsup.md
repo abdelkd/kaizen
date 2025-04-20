@@ -30,6 +30,8 @@ export default defineConfig((options) => ({
   minify: !options.watch,
 }))
 ```
+
+`options` Is derived from cli flags
 ## Connections
 
 
