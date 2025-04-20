@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Inbox/What is the semantic HTML header element.md",
+                "file": "0 - Inbox/What is the footer HTML element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is the semantic HTML header element"
+              "title": "What is the footer HTML element"
             }
           }
         ]
@@ -140,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "4 - Areas/Djezzy Cards Dashboard.md",
+            "file": "0 - Inbox/What is the footer HTML element.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -168,8 +168,10 @@
   },
   "active": "394828d65c77a719",
   "lastOpenFiles": [
-    "0 - Inbox/Epic Federation.md",
+    "0 - Inbox/What can the header HTML element include.md",
+    "0 - Inbox/What is the footer HTML element.md",
     "0 - Inbox/What is the semantic HTML header element.md",
+    "0 - Inbox/Epic Federation.md",
     "0 - Inbox/JavaScript Origin Story.md",
     "0 - Inbox/How to configure tsup.md",
     "0 - Inbox/What is tsup.md",
@@ -195,8 +197,6 @@
     "3 - Zettelkasten/React Loader Pattern.md",
     "3 - Zettelkasten/What is Pure Function.md",
     "0 - Inbox/JavaScript Fetch.md",
-    "0 - Inbox/Tanstack Router Handle Pending State.md",
-    "3 - Zettelkasten/Pure Function Characteristics.md",
     "2 - Source Notes",
     "1 - Map Of Contents",
     "7 - Unsorted/Articles/Assets",
