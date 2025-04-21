@@ -1,4 +1,4 @@
-**Definition:** a percentage is a way to represent a number out of a whole, where a whole is 100%. % symbol here is used to reprecent "percentage"
+**Definition:** a percentage is a way to represent a number out of a whole, where a whole is 100%. % symbol here is used to represent "percentage"
 
 ## Percentage to Decimal
 To convert a percent value to a decimal all we have to do is divide it by 100.

@@ -18,6 +18,6 @@ created: 2025-04-11 22:13:56
 
 ## Connections
 
-* [[Tree Shaking Definition]]
-* [[Tree Shaking Target]]
-* [[Benefits of Tree Shaking]]
+* [[Definition of Tree Shaking]]
+* [[What Does Tree Shaking Targets]]
+* [[The Benefits of Tree Shaking]]

@@ -2,7 +2,7 @@
 
 ### Tree Shaking
 
-* [[Tree Shaking Definition]]
+* [[Definition of Tree Shaking]]
 * [[How Does Tree Shaking Work]]
-* [[Benefits of Tree Shaking]]
-* [[Tree Shaking Target]]
+* [[The Benefits of Tree Shaking]]
+* [[What Does Tree Shaking Targets]]

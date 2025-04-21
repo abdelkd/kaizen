@@ -1,5 +1,9 @@
 ---
-tags: type/zettel, 
+tags:
+  - type/zettel
+  - concept/web
+  - concept/router
+  - concept/ssr
 aliases: 
 created: 2025-04-12 12:42:23
 ---

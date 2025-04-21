@@ -24,7 +24,6 @@ The `<link>` element comes with multiple attributes that could he defined:
 * **imagesrcsizes:** it tells the browser about the image sizes that will be loaded [[img element srcsize attribute ]]
 * **type:** This attribute defines the MIME type of the resource.
 
-## Connections
-
-
-## Questions/Thoughts
+## References
+- [[what are link element rel values]]
+- [[What is the link HTML element]]

@@ -41,6 +41,6 @@ used() // This line won't get into the final bundle
 
 ## Connections
 
-* [[Tree Shaking Definition]]
+* [[Definition of Tree Shaking]]
 * [[How Does Tree Shaking Work]]
-* [[Benefits of Tree Shaking]]
+* [[The Benefits of Tree Shaking]]

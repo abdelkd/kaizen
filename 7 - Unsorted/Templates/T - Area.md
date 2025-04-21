@@ -9,7 +9,7 @@ created: <% tp.file.creation_date("YYYY-MM-DD") %>
 
 
 
-## Key Resources / MOCs (Maps of Content)
+## References
 
 
 
