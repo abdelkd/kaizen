@@ -162,11 +162,14 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
   "active": "394828d65c77a719",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "4 - Areas/Djezzy Cards Dashboard.md",
     "0 - Inbox/What is the article HTML element.md",
     "0 - Inbox/What can the footer HTML element include.md",
     "0 - Inbox/What is the footer HTML element.md",
@@ -176,7 +179,6 @@
     "0 - Inbox/JavaScript Origin Story.md",
     "0 - Inbox/How to configure tsup.md",
     "0 - Inbox/What is tsup.md",
-    "4 - Areas/Djezzy Cards Dashboard.md",
     "0 - Inbox/Do not use React's useState hook when there's no UI update.md",
     "0 - Inbox/David Talk.md",
     "4 - Areas/Build Portfolio Projects.md",
@@ -195,7 +197,6 @@
     "3 - Projects/PixlFlow/Pixl Flow Dashboard.md",
     "4 - Areas/Build Portfolio Projects",
     "3 - Projects/PixlFlow",
-    "3 - Zettelkasten/React Loader Pattern.md",
     "2 - Source Notes",
     "1 - Map Of Contents",
     "7 - Unsorted/Articles/Assets",

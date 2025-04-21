@@ -24,7 +24,7 @@ EMPTY
 
 | Weekday   | Time     | Last 2 digits | Phone Number |
 | --------- | -------- | ------------- | ------------ |
-| Saturday  | 01:44 AM | 25            | 0799905057   |
+| Monday    | 07:30 AM | 25            | 0799905057   |
 | Sunday    | 07:42 AM | 41            | 0799922427   |
 | Monday    | 05:30 AM | 12            | 0772737646   |
 | Monday    | 11:18 AM | 07            | 0781321859   |
