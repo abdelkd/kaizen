@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettelkasten/How to configure tsup.md",
+                "file": "4 - Areas/Djezzy Cards Dashboard.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "How to configure tsup"
+              "title": "Djezzy Cards Dashboard"
             }
           }
         ]
