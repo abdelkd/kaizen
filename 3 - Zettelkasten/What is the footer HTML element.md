@@ -8,7 +8,7 @@ created: 2025-04-20 18:39:39
 Like the `<header>` element, the `<footer>` is a semantic HTML element made for a including content that is meant to be at the bottom of its nearest ancestor sectioning content (`<article>, <aside>, <main>, <nav>, <section>`) or body element. 
 
 
-## Connections
+## References
 
-
-## Questions/Thoughts
+* [[What is the article HTML element]]
+* [[What can the header HTML element include]]

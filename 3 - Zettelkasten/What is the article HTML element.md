@@ -9,5 +9,6 @@ The `<article>` element is a semantic element meant to contain a content of the 
 
 ## References
 
+- [[What is the article HTML element]]
 
 ## Questions/Thoughts

@@ -34,5 +34,6 @@ export default defineConfig((options) => ({
 `options` Is derived from cli flags
 ## Connections
 
+- [[What is tsup]]
 
 ## Questions/Thoughts
