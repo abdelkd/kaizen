@@ -9,4 +9,4 @@ created: 2025-04-20 18:32:43
 
 ## References
 
-## Questions/Thoughts
+- [[What is the footer HTML element]]

@@ -14,4 +14,3 @@ The `<header>` element has very specific use case where it can include elements 
 
 - [[What is the semantic HTML header element]]
 
-## Questions/Thoughts
