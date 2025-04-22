@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "b9a2be9812c0e779",
+    "id": "38508967507c0cab",
     "type": "split",
     "children": [
       {
-        "id": "faa7adb9e7696e72",
+        "id": "95a2fa91c8d06668",
         "type": "tabs",
         "children": [
           {
-            "id": "394828d65c77a719",
+            "id": "6ad0716528b1c0f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Inbox/What is the footer HTML element.md",
+                "file": "4 - Areas/Djezzy Cards Dashboard.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "What is the footer HTML element"
+              "title": "Djezzy Cards Dashboard"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2bb9dff853aa94a8",
+    "id": "2253d1123870bae3",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "0017cec1711f1e35",
+        "id": "9b74800520590f90",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "29420822fb62bae6",
+        "id": "c1db9bbe3386c76e",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "9a5e3f4ed5080023",
+        "id": "9b76137bd80a1c04",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,7 @@
         }
       },
       {
-        "id": "9f38ba7673ac062b",
+        "id": "1cdb47b45c0754f7",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -84,30 +84,21 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
-      },
-      {
-        "id": "8c8501dc9211608e",
-        "type": "leaf",
-        "state": {
-          "type": "vertical-tabs",
-          "state": {},
-          "icon": "vertical-tabs",
-          "title": "Vertical tabs"
-        }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "3c6eb05911cbf15d",
+    "id": "0f675f84c8a91abb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "64d0a0f1082e64a5",
+        "id": "c43af6873aadccb7",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "3 - Zettelkasten/What is the semantic HTML header element.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,12 +112,12 @@
         }
       },
       {
-        "id": "b5c28332d9b38e3c",
+        "id": "ced25278f776a7b0",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "3 - Zettelkasten/What is the semantic HTML header element.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -135,18 +126,28 @@
         }
       },
       {
-        "id": "4eeb4c8ca4b027f9",
+        "id": "82d049fcf4157dac",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "0 - Inbox/What is the footer HTML element.md",
+            "file": "3 - Zettelkasten/What is the semantic HTML header element.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
+        }
+      },
+      {
+        "id": "9edcba44259a7a91",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -162,47 +163,15 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "394828d65c77a719",
+  "active": "6ad0716528b1c0f9",
   "lastOpenFiles": [
-    "0 - Inbox/What can the header HTML element include.md",
-    "0 - Inbox/What is the footer HTML element.md",
-    "0 - Inbox/What is the semantic HTML header element.md",
-    "0 - Inbox/Epic Federation.md",
-    "0 - Inbox/JavaScript Origin Story.md",
-    "0 - Inbox/How to configure tsup.md",
-    "0 - Inbox/What is tsup.md",
-    "4 - Areas/Djezzy Cards Dashboard.md",
-    "0 - Inbox/Do not use React's useState hook when there's no UI update.md",
-    "0 - Inbox/David Talk.md",
-    "4 - Areas/Build Portfolio Projects.md",
-    "3 - Projects/Quescape/Quescape Dashboard.md",
-    "3 - Projects/Quescape",
-    "0 - Inbox/Courses I want to learn.md",
-    "0 - Inbox/Untitled Kanban.md",
-    "0 - Inbox/link Element Attributes.md",
-    "0 - Inbox/What is the link HTML element.md",
-    "0 - Inbox/Jest Docs.md",
-    "0 - Inbox/Hono Docs.md",
-    "0 - Inbox/Prepositional phrase.md",
-    "0 - Inbox/Gerund Phrase.md",
-    "2 - Source Notes/Source - Docs - Hono.md",
-    "2 - Source Notes/Source - Youtube - React Loader Pattern.md",
-    "3 - Projects/PixlFlow/Pixl Flow Dashboard.md",
-    "4 - Areas/Build Portfolio Projects",
-    "3 - Projects/PixlFlow",
-    "3 - Zettelkasten/React Loader Pattern.md",
-    "3 - Zettelkasten/What is Pure Function.md",
-    "0 - Inbox/JavaScript Fetch.md",
-    "2 - Source Notes",
-    "1 - Map Of Contents",
-    "7 - Unsorted/Articles/Assets",
-    "7 - Unsorted/Assets/Untitled",
-    "7 - Unsorted/Articles",
-    "3 - Zettelkasten/Concepts/Math",
-    "7 - Unsorted"
+    "3 - Zettelkasten/How to configure tsup.md",
+    "0 - Inbox/Math Percentage.md",
+    "3 - Zettelkasten/What is the article HTML element.md",
+    "3 - Zettelkasten/What is the footer HTML element.md",
+    "3 - Zettelkasten/What is the semantic HTML header element.md"
   ]
 }

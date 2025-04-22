@@ -9,4 +9,6 @@ created: 2025-04-20 18:32:43
 
 ## References
 
+- [[What is the link HTML element]]
 - [[What is the footer HTML element]]
+- [[What is the article HTML element]]
