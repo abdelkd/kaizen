@@ -5,7 +5,7 @@ created: 2025-04-20 11:13:17
 ---
 # How to configure tsup
 
-Even though tsup can be used with no config (through the `tsup` command) it needs configuration whne you want to customize the output (minify, sourcemap...etc).
+Even though tsup can be used with no config (through the `tsup` command) it needs configuration when you want to customize the output (minify, sourcemap...etc).
 To configure tsup, all you have to do is create a configuration file (see: [[What is tsup]]) and here's an example of a configuration file:
 
 ```ts
@@ -34,5 +34,4 @@ export default defineConfig((options) => ({
 `options` Is derived from cli flags
 ## Connections
 
-
-## Questions/Thoughts
+- [[What is tsup]]
