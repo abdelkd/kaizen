@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettelkasten/What is space-complexity.md",
+                "file": "0 - Inbox/Why Use Storybook?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is space-complexity"
+              "title": "Why Use Storybook?"
             }
           }
         ],
@@ -194,8 +194,10 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "7fbb3c1d11afab4b",
+  "active": "4f98d16c23c6a0c0",
   "lastOpenFiles": [
+    "0 - Inbox/What is storybook.md",
+    "0 - Inbox/Why Use Storybook?.md",
     "3 - Zettelkasten/What is space-complexity.md",
     "4 - Areas/Area - DSA Study Plan - Phase 1.md",
     "1 - Map Of Contents/MOC JavaScript.md",
@@ -220,8 +222,6 @@
     "3 - Zettelkasten/How to Access Query Parameters in Hono Framework.md",
     "3 - Zettelkasten/How to Set a Header in Hono Framework Handler.md",
     "0 - Inbox/Hono Docs.md",
-    "3 - Zettelkasten/How to Throw Exceptions in Hono Framework.md",
-    "3 - Zettelkasten/How to Handle Thrown Exception from Handler in Hono Framework.md",
     "70 - Unsorted/Articles",
     "70 - Unsorted"
   ]
