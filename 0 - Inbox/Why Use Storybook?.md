@@ -9,7 +9,7 @@ since storybook allows to create UI components in isolation, it provides many be
 
 1. being able to focus on each component alone
 2. testing with no interfering of the business logic.
-3. testing rare use cases in an
+3. testing rare use cases in an organized manner
 
 
 ## References
