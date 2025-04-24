@@ -43,8 +43,8 @@
   "7 - Unsorted": "LiBox",
   "3 - Zettelkasten": "LiLayers",
   "2 - Source Notes": "LiBook",
-  "3 - Projects": "LiBriefcase",
   "4 - Areas": "LiMapPin",
   "8 - Archives": "LiArchive",
-  "1 - Map Of Contents": "LiMap"
+  "1 - Map Of Contents": "LiMap",
+  "5 - Projects": "LiBriefcase"
 }
