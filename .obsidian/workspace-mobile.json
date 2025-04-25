@@ -165,6 +165,9 @@
   },
   "active": "6ad0716528b1c0f9",
   "lastOpenFiles": [
+    "/0 - Inbox/things_i_did.md",
+    "0 - Inbox/things_i_did.md",
+    "/0 - Inbox",
     "3 - Zettelkasten/What is space-complexity.md",
     "0 - Inbox/What is storybook.md",
     "/3 - Zettelkasten/What is space-complexity.md",
@@ -190,7 +193,6 @@
     "/5 - Projects/Quescape",
     "/5 - Projects/PixlFlow",
     "/5 - Projects/Advanced TypeScript/_Notes",
-    "/5 - Projects/Advanced TypeScript",
     "3 - Zettelkasten/What is time-complexity.md",
     "0 - Inbox/What are the common time complexities.md",
     "/3 - Zettelkasten/What is tsup.md",
@@ -198,8 +200,6 @@
     "/3 - Zettelkasten/What is the semantic HTML header element.md",
     "/3 - Zettelkasten/What is the footer HTML element.md",
     "/3 - Zettelkasten/What can the header HTML element include.md",
-    "/3 - Zettelkasten/How to configure tsup.md",
-    "/3 - Zettelkasten/Do not use React's useState hook when there's no UI update.md",
-    "3 - Zettelkasten/Do not use React's useState hook when there's no UI update.md"
+    "/3 - Zettelkasten/How to configure tsup.md"
   ]
 }
