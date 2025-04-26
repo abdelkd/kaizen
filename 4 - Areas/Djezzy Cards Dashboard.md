@@ -28,13 +28,13 @@ EMPTY
 | Sunday    | 07:49 PM | 41            | 0799922427   |
 | Monday    | 05:30 AM | 12            | 0772737646   |
 | Monday    | 11:18 AM | 07            | 0781321859   |
-| Wednesday | 11:11 AM | 80            | 0775596228   |
-| Thursday  | 11:11 AM | 66            | 0781401357   |
-| Thursday  | 11:13 PM | 60            | 0775246770   |
+| Tuesday   | 10:00 PM | 80            | 0775596228   |
+| Wednesday | 09:33 PM | 66            | 0781401357   |
+| Thursday  | 09:45 PM | 60            | 0775246770   |
 | Friday    | 09:26 PM | 09            | 0775418744   |
 | Thursday  | 11:18 AM | 71            | 0773485175   |
 | Saturday  | 02:02 PM | 59            | 0781056088   |
-| Thursday  | 10:58 AM | 86            | 0776602021   |
+| Friday    | 01:05 AM | 86            | 0776602021   |
 
 
 ## 📝 Notes & Standards
