@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Areas/Djezzy Cards Dashboard.md",
+                "file": "0 - Inbox/What is the design thinking process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Djezzy Cards Dashboard"
+              "title": "What is the design thinking process"
             }
           }
         ]
@@ -160,18 +160,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
   "active": "6ad0716528b1c0f9",
   "lastOpenFiles": [
-    "7 - Prompts/Prompt - ChatGPT - Module Study Plan UX-UI-Frontend.md",
+    "0 - Inbox/What is design thinking.md",
+    "0 - Inbox/What is the design thinking process.md",
+    "3 - Zettelkasten/What is storybook.md",
     "4 - Areas/Djezzy Cards Dashboard.md",
+    "7 - Prompts/Prompt - ChatGPT - Module Study Plan UX-UI-Frontend.md",
     "/0 - Inbox/things_i_did.md",
     "0 - Inbox/things_i_did.md",
     "/0 - Inbox",
     "3 - Zettelkasten/What is space-complexity.md",
-    "0 - Inbox/What is storybook.md",
     "/3 - Zettelkasten/What is space-complexity.md",
     "/3 - Zettelkasten/What are the common time complexities.md",
     "3 - Zettelkasten/What are the common time complexities.md",
@@ -198,8 +204,6 @@
     "3 - Zettelkasten/What is time-complexity.md",
     "0 - Inbox/What are the common time complexities.md",
     "/3 - Zettelkasten/What is tsup.md",
-    "/3 - Zettelkasten/What is time-complexity.md",
-    "/3 - Zettelkasten/What is the semantic HTML header element.md",
-    "/3 - Zettelkasten/What is the footer HTML element.md"
+    "/3 - Zettelkasten/What is time-complexity.md"
   ]
 }
