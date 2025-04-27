@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettelkasten/What is the design thinking process.md",
+                "file": "4 - Areas/Djezzy Cards Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is the design thinking process"
+              "title": "Djezzy Cards Dashboard"
             }
           }
         ]
@@ -167,10 +167,10 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "9b74800520590f90",
+  "active": "6ad0716528b1c0f9",
   "lastOpenFiles": [
-    "3 - Zettelkasten/What is design thinking.md",
     "3 - Zettelkasten/What is the design thinking process.md",
+    "3 - Zettelkasten/What is design thinking.md",
     "3 - Zettelkasten/What is storybook.md",
     "4 - Areas/Djezzy Cards Dashboard.md",
     "7 - Prompts/Prompt - ChatGPT - Module Study Plan UX-UI-Frontend.md",
