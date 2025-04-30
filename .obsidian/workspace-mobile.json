@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Areas/Djezzy Cards Dashboard.md",
+                "file": "3 - Zettelkasten/Korean - Letters - ㅏ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Djezzy Cards Dashboard"
+              "title": "Korean - Letters - ㅏ"
             }
           }
         ],
@@ -175,16 +175,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0e9d452ce85f63d4",
   "lastOpenFiles": [
-    "3 - Zettelkasten/What is the double diamond design process.md",
     "4 - Areas/Djezzy Cards Dashboard.md",
+    "3 - Zettelkasten/Korean - Letters - ㅏ.md",
+    "3 - Zettelkasten/What is the double diamond design process.md",
     "3 - Zettelkasten/What is the design thinking process.md",
     "3 - Zettelkasten/What is design thinking.md",
     "3 - Zettelkasten/What is storybook.md",
@@ -217,7 +215,6 @@
     "/5 - Projects/PixlFlow",
     "/5 - Projects/Advanced TypeScript/_Notes",
     "3 - Zettelkasten/What is time-complexity.md",
-    "0 - Inbox/What are the common time complexities.md",
-    "/3 - Zettelkasten/What is tsup.md"
+    "0 - Inbox/What are the common time complexities.md"
   ]
 }
