@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettelkasten/What is the double diamond design process.md",
+                "file": "4 - Areas/Djezzy Cards Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is the double diamond design process"
+              "title": "Djezzy Cards Dashboard"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Areas/Djezzy Cards Dashboard.md",
+                "file": "2 - Source Notes/Source - Youtube - React Loader Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Djezzy Cards Dashboard"
+              "title": "Source - Youtube - React Loader Pattern"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,15 +174,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "0e9d452ce85f63d4",
+  "active": "6ad0716528b1c0f9",
   "lastOpenFiles": [
+    "3 - Zettelkasten/What is the double diamond design process.md",
+    "2 - Source Notes/Source - Youtube - React Loader Pattern.md",
+    "4 - Areas/Djezzy Cards Dashboard.md",
+    "3 - Zettelkasten/The React Loader Pattern.md",
+    "0 - Inbox/Tanstack Router.md",
     "0 - Inbox/What is hangul.md",
     "3 - Zettelkasten/Korean - Letters - ㅏ.md",
-    "4 - Areas/Djezzy Cards Dashboard.md",
-    "3 - Zettelkasten/What is the double diamond design process.md",
     "3 - Zettelkasten/What is the design thinking process.md",
     "3 - Zettelkasten/What is design thinking.md",
     "3 - Zettelkasten/What is storybook.md",
@@ -205,8 +211,6 @@
     "/5 - Projects/Quescape/Quescape Dashboard.md",
     "/5 - Projects/PixlFlow/Pixl Flow Dashboard.md",
     "/5 - Projects/Advanced TypeScript/_Notes/Advanced TypeScript Study Plan.md",
-    "/5 - Projects/Advanced TypeScript/00001 - Advanced TypeScript.md",
-    "/0 - Inbox/What is Kadane's algorithm.md",
     "5 - Projects/Advanced TypeScript/_Notes",
     "5 - Projects/Quescape",
     "5 - Projects/PixlFlow",
@@ -214,7 +218,6 @@
     "5 - Projects",
     "/5 - Projects/Quescape",
     "/5 - Projects/PixlFlow",
-    "/5 - Projects/Advanced TypeScript/_Notes",
-    "3 - Zettelkasten/What is time-complexity.md"
+    "/5 - Projects/Advanced TypeScript/_Notes"
   ]
 }
