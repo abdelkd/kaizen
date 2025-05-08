@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "d011fc57cc6932f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Inbox/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "0e9d452ce85f63d4",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Source - Youtube - React Loader Pattern"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,14 +189,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "6ad0716528b1c0f9",
+  "active": "d011fc57cc6932f3",
   "lastOpenFiles": [
+    "4 - Areas/Djezzy Cards Dashboard.md",
+    "0 - Inbox/Untitled.md",
     "3 - Zettelkasten/What is the double diamond design process.md",
     "2 - Source Notes/Source - Youtube - React Loader Pattern.md",
-    "4 - Areas/Djezzy Cards Dashboard.md",
     "3 - Zettelkasten/The React Loader Pattern.md",
     "0 - Inbox/Tanstack Router.md",
     "0 - Inbox/What is hangul.md",
@@ -206,7 +226,6 @@
     "0 - Inbox/What is Kadane's algorithm.md",
     "/5 - Projects/Quescape/Quescape Dashboard.md",
     "/5 - Projects/PixlFlow/Pixl Flow Dashboard.md",
-    "/5 - Projects/Advanced TypeScript/_Notes/Advanced TypeScript Study Plan.md",
     "5 - Projects/Advanced TypeScript/_Notes",
     "5 - Projects/Quescape",
     "5 - Projects/PixlFlow",
