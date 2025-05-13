@@ -34,7 +34,7 @@ EMPTY
 | Friday    | 09:26 PM | 09            | 0775418744   |
 | Thursday  | 09:36 PM | 71            | 0773485175   |
 | Saturday  | 09:13 PM | 59            | 0781056088   |
-| Sunday    | 10:00 AM | 86            | 0776602021   |
+| Monday    | 08:03 AM | 86            | 0776602021   |
 
 
 ## 📝 Notes & Standards
