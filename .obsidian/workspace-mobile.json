@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "4 - Areas/Djezzy Cards Dashboard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -189,13 +189,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
   "active": "d011fc57cc6932f3",
   "lastOpenFiles": [
-    "0 - Inbox/Untitled.md",
+    "7 - Prompts/Prompt - ChatGPT - Module Study Plan UX-UI-Frontend.md",
     "4 - Areas/Djezzy Cards Dashboard.md",
+    "0 - Inbox/Untitled.md",
     "3 - Zettelkasten/What is the double diamond design process.md",
     "2 - Source Notes/Source - Youtube - React Loader Pattern.md",
     "3 - Zettelkasten/The React Loader Pattern.md",
@@ -205,7 +210,6 @@
     "3 - Zettelkasten/What is the design thinking process.md",
     "3 - Zettelkasten/What is design thinking.md",
     "3 - Zettelkasten/What is storybook.md",
-    "7 - Prompts/Prompt - ChatGPT - Module Study Plan UX-UI-Frontend.md",
     "/0 - Inbox/things_i_did.md",
     "0 - Inbox/things_i_did.md",
     "/0 - Inbox",
