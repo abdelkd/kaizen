@@ -25,10 +25,14 @@
             "id": "4f98d16c23c6a0c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "7 - Prompts/Prompt - ChatGPT - Module Study Plan UX-UI-Frontend.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prompt - ChatGPT - Module Study Plan UX-UI-Frontend"
             }
           }
         ],
