@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Areas/Djezzy Cards Dashboard.md",
-                "mode": "preview",
+                "file": "0 - Inbox/Untitled.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Djezzy Cards Dashboard"
+              "title": "Untitled"
             }
           },
           {
@@ -198,8 +198,8 @@
   },
   "active": "d011fc57cc6932f3",
   "lastOpenFiles": [
-    "7 - Prompts/Prompt - ChatGPT - Module Study Plan UX-UI-Frontend.md",
     "4 - Areas/Djezzy Cards Dashboard.md",
+    "7 - Prompts/Prompt - ChatGPT - Module Study Plan UX-UI-Frontend.md",
     "0 - Inbox/Untitled.md",
     "3 - Zettelkasten/What is the double diamond design process.md",
     "2 - Source Notes/Source - Youtube - React Loader Pattern.md",
