@@ -2,6 +2,7 @@
 tags: type/prompt
 ---
 
+
 ## Prompt
 
 ```md
