@@ -24,17 +24,17 @@ EMPTY
 
 | Weekday   | Time     | Last 2 digits | Phone Number |
 | --------- | -------- | ------------- | ------------ |
-| Monday    | 07:30 AM | 25            | 0799905057   |
+| Wednesday | 07:47 AM | 25            | 0799905057   |
 | Sunday    | 07:49 PM | 41            | 0799922427   |
-| Monday    | 05:30 AM | 12            | 0772737646   |
-| Monday    | 11:18 AM | 07            | 0781321859   |
-| Wednesday | 11:11 AM | 80            | 0775596228   |
-| Thursday  | 11:11 AM | 66            | 0781401357   |
-| Thursday  | 11:13 PM | 60            | 0775246770   |
+| Wednesday | 09:25 AM | 12            | 0772737646   |
+| Thursday  | 09:33 AM | 07            | 0781321859   |
+| Friday    | 09:52 AM | 80            | 0775596228   |
+| Saturday  | 07:14 AM | 66            | 0781401357   |
+| Sunday    | 07:09 AM | 60            | 0775246770   |
 | Friday    | 09:26 PM | 09            | 0775418744   |
-| Thursday  | 11:18 AM | 71            | 0773485175   |
-| Saturday  | 02:02 PM | 59            | 0781056088   |
-| Thursday  | 10:58 AM | 86            | 0776602021   |
+| Thursday  | 09:36 PM | 71            | 0773485175   |
+| Tuesday   | 08:04 AM | 59            | 0781056088   |
+| Monday    | 08:03 AM | 86            | 0776602021   |
 
 
 ## 📝 Notes & Standards
