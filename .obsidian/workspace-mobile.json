@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Inbox/Untitled.md",
+                "file": "7 - Prompts/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,9 +198,12 @@
   },
   "active": "d011fc57cc6932f3",
   "lastOpenFiles": [
+    "0 - Inbox/Projects-Ideas.md",
+    "7 - Prompts/Untitled.md",
+    "0 - Inbox/Projects Ideas.md",
+    "0 - Inbox/Untitled.md",
     "4 - Areas/Djezzy Cards Dashboard.md",
     "7 - Prompts/Prompt - ChatGPT - Module Study Plan UX-UI-Frontend.md",
-    "0 - Inbox/Untitled.md",
     "3 - Zettelkasten/What is the double diamond design process.md",
     "2 - Source Notes/Source - Youtube - React Loader Pattern.md",
     "3 - Zettelkasten/The React Loader Pattern.md",
@@ -223,9 +226,6 @@
     "5 - Projects/PixlFlow/Pixl Flow Dashboard.md",
     "5 - Projects/Advanced TypeScript/_Notes/Advanced TypeScript Study Plan.md",
     "5 - Projects/Advanced TypeScript/00001 - Advanced TypeScript.md",
-    "0 - Inbox/What is Kadane's algorithm.md",
-    "/5 - Projects/Quescape/Quescape Dashboard.md",
-    "/5 - Projects/PixlFlow/Pixl Flow Dashboard.md",
     "5 - Projects/Advanced TypeScript/_Notes",
     "5 - Projects/Quescape",
     "5 - Projects/PixlFlow",
