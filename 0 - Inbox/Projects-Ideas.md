@@ -91,3 +91,9 @@ This document now serves as our complete blueprint for the MVP. It's clear, stru
 Now, returning to my previous question, let's switch our thinking hats from "Product Designer" to "Engineer."
 
 **What is the single biggest technical challenge or bottleneck you foresee in the process of fetching emails, running the AI analysis, and sending the data back to the client? How might we mitigate it?**
+
+
+## **Project Definition & Roadmap: "Agent Builder"**
+
+
+
